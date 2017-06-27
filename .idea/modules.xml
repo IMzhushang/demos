@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/DoBanMovie.iml" filepath="$PROJECT_DIR$/DoBanMovie.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../DoBanMovie/dobanweb/doban-web.iml" filepath="$PROJECT_DIR$/../DoBanMovie/dobanweb/doban-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../DoBanMovie/dobanconfig/dobanconfig.iml" filepath="$PROJECT_DIR$/../DoBanMovie/dobanconfig/dobanconfig.iml" />
+    </modules>
+  </component>
+</project>
